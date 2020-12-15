@@ -1,4 +1,4 @@
-# tennispartnnerpb
+# tennispartnerpb
 
 ## Project setup
 ```
