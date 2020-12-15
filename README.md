@@ -24,7 +24,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
------About-----
+About
 
 This is a Web System Frond End project made mostly with Vue.js which is a powerfull Javascript framework to build Single Page Applications.
 I also use Sass to style and the Vuetify Material Design Framework from Vue in order to create carousels, cards, footers and stuff!
